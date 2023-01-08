@@ -6,4 +6,4 @@ to use, run the following command
 
 the default file that will be ran is the test.cell file (found in the examples/ directory)
 
-you will need to pip install
+you will need to pip install antlr4 by running ```pip3 install antlr-python3-runtime``` command or ```pip install antlr-python3-runtime``` command
