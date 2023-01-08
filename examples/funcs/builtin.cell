@@ -1,0 +1,11 @@
+// builtinfuncs.cell
+
+println(fib(13))
+
+v = 0
+println(type(v))
+
+println(range(20))
+
+println(smaller(100, 50))
+println(larger(100, 50 * 2))

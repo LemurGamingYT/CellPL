@@ -1,0 +1,13 @@
+// concurrency.cell
+
+fn test() {
+    println("Hello World")
+    println("Intensive task")
+
+    for i; i < 100; i++ {
+        println(i)
+    }
+}
+
+@task.new(test)
+@task.resume(test)

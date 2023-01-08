@@ -1,0 +1,19 @@
+// operators.cell
+
+println(7 + 2)
+println("hel" + "lo")
+
+println("lohi" - 2)
+println(5.23 - 1.23)
+
+println(9.02 * 7)
+println("hello " * 5)
+
+println(90 / 10)
+println("hello" / "hello")
+
+println(100 % 3)
+println("no hello" % 3)
+
+println(7 ** 3)
+println("hello again " ** 3)

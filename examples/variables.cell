@@ -1,0 +1,7 @@
+// variables.cell
+
+v = 50
+println(v + 25)
+
+// null-safe
+string? str = null

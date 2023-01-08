@@ -1,0 +1,6 @@
+// typecasting.cell
+
+println((int)"50" * 2)
+
+tc = (string)70 * 2
+println(tc)

@@ -1,0 +1,4 @@
+// reference.cell
+
+t = 15
+println(&t)

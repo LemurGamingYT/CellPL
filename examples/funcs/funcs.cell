@@ -1,0 +1,12 @@
+// funcs.cell
+
+fn main() { // 'fn' or 'func'
+    println("Hello World")
+}
+
+main()
+
+// other way to define a function
+function = (int integer) => { println(integer * 5) }
+
+function(5)

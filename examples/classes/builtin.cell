@@ -1,0 +1,4 @@
+// builtin.cell
+
+println(Math.sine(5))
+println(Math.squareroot(9))

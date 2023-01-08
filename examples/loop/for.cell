@@ -1,0 +1,5 @@
+// for.cell
+
+for i; i < 50; i++ {
+    println(i)
+}

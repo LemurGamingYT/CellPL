@@ -1,0 +1,7 @@
+// attributes.cell
+
+println("==================================================".count("="))
+
+int hexxed = 10
+hexxed = hexxed.hex
+println(hexxed)
